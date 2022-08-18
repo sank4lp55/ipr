@@ -17,7 +17,7 @@ Future<void> main() async {
     debugShowCheckedModeBanner: false,
     home: Home(),
     theme: ThemeData(
-      textTheme: GoogleFonts.manropeTextTheme(),
+      textTheme: GoogleFonts.poppinsTextTheme(),
     ),
   ));
 }

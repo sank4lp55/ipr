@@ -29,8 +29,8 @@ class _LangPageState extends State<LangPage> {
     'Hindi',
     'punjabi',
     'gujrati',
-    'Mercedes',
-    'BMW',
+    'Punjabi',
+    'dfcd',
     'huin',
     'jouh',
   ];
